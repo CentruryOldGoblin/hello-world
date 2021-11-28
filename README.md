@@ -1,2 +1,2 @@
 # hello-world
-it's my first lib
+i am a student from mars
